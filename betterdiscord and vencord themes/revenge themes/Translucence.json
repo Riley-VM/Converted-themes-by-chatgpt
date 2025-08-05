@@ -1,0 +1,72 @@
+{
+    "name": "Translucence",
+    "description": "A translucent/frosted glass Discord theme",
+    "version": "1.0.6.4",
+    "authors": [
+        {
+            "name": "CapnKitten"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "hsl(0,0%,0%,0.2)"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "hsl(0,0%,0%,0.4)"
+        ],
+        "CARD_PRIMARY_BG": [
+            "hsl(0,0%,0%,0.4)"
+        ],
+        "CARD_SECONDARY_BG": [
+            "hsl(0,0%,0%,0.5)"
+        ],
+        "CARD_SELECTED_BG": [
+            "hsl(0,0%,0%,0.7)"
+        ],
+        "TEXT_PRIMARY": [
+            "hsl(0,0%,100%)"
+        ],
+        "TEXT_SECONDARY": [
+            "hsl(0,0%,77%)"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "hsl(0,0%,79%)"
+        ],
+        "INTERACTIVE_HOVER": [
+            "hsl(0,0%,91%)"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "hsl(0,0%,100%)"
+        ],
+        "INTERACTIVE_MUTED": [
+            "hsl(0,0%,43%)"
+        ],
+        "CHANNELS_DEFAULT": [
+            "hsl(0,0%,62%)"
+        ],
+        "CHANNEL_ICON": [
+            "hsl(0,0%,62%)"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "hsl(0,0%,100%,0.075)"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "hsl(0,0%,100%,0.125)"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "rgba(255,255,255,0.1)"
+        ]
+    },
+    "rawColors": {
+        "ACCENT_HSL": "hsl(156,77.5%,47.1%)",
+        "REPLY_HSL": "hsl(226,77.4%,61.8%)",
+        "TEXTAREA_TEXT": "hsl(0,0%,100%)",
+        "BUTTON_ACTION": "hsl(0,0%,0%)"
+    },
+    "background": {
+        "blur": 6,
+        "url": "https://i.imgur.com/IbHO1cK.jpeg",
+        "alpha": 1
+    },
+    "spec": 2
+}
